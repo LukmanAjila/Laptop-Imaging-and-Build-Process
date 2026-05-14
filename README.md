@@ -44,6 +44,7 @@ Laptop-Imaging-and-Build-Process/
 │
 └── README.md
 
+
 ## Purpose
 
 This project serves as a reference point for anyone involved in preparing, configuring or deploying laptops within an organisation. It brings together the essential tasks, best practices and quality steps that support a smooth and dependable build process. The result is a clear and practical guide that supports both technical staff and those who may be less familiar with the detailed steps involved in preparing a device for everyday use.
