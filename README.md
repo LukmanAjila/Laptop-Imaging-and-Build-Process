@@ -15,8 +15,6 @@ The documentation also explains the testing and verification steps that ensure e
 
 ## Folder Structure
 
-Below is the recommended structure for organising your documentation and files. You can create these folders gradually as your project grows.
-
 Laptop-Imaging-and-Build-Process/
 │
 ├── documentation/
@@ -43,7 +41,6 @@ Laptop-Imaging-and-Build-Process/
 │   └── diagrams/
 │
 └── README.md
-
 
 ## Purpose
 
