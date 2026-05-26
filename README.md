@@ -15,15 +15,11 @@ The documentation also explains the testing and verification steps that ensure e
 
 ## Folder Structure
 
-Laptop-Imaging-and-Build-Process/  Documentation/ Hardware-preparation.md/
+Laptop-Imaging-and-Build-Process.md/  Documentation.md/ Hardware-preparation.md/ OS-imaging.md/
 
-OS-imaging/
+Drivers-and-firmware.md/ Application-deployment.md/ Configuration-standards.md/ Validation-and-testing.md/
 
-Drivers-and-firmware/
-│   ├── application-deployment.md
-│   ├── configuration-standards.md
-│   ├── validation-and-testing.md
-│   └── final-approval.md
+Final-approval.md
 │
 ├── scripts/
 │   ├── imaging-scripts/
