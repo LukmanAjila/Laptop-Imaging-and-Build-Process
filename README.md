@@ -19,17 +19,6 @@ Laptop-Imaging-and-Build-Process.md/  Documentation.md/ Hardware-preparation.md/
 
 Drivers-and-firmware.md/ Application-deployment.md/ Configuration-standards.md/ Validation-and-testing.md/
 
-Final-approval.md
-│
-├── scripts/
-│   ├── imaging-scripts/
-│   ├── deployment-scripts/
-│   └── validation-scripts/
-│
-├── templates/
-│   ├── checklists/
-│   ├── approval-forms/
-│   └── configuration-baselines/
 │
 ├── assets/
 │   ├── images/
