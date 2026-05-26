@@ -18,9 +18,9 @@ The documentation also explains the testing and verification steps that ensure e
 Laptop-Imaging-and-Build-Process/
 │
 ├── documentation/
-│   ├── hardware-preparation.md
-│   ├── os-imaging.md
-│   ├── drivers-and-firmware.md
+│   hardware-preparation.md
+│   os-imaging.md
+│   drivers-and-firmware.md
 │   ├── application-deployment.md
 │   ├── configuration-standards.md
 │   ├── validation-and-testing.md
