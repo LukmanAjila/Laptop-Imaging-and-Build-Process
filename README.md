@@ -15,11 +15,7 @@ The documentation also explains the testing and verification steps that ensure e
 
 ## Folder Structure
 
-Laptop-Imaging-and-Build-Process/
-
-Documentation/
-
-Hardware-preparation.md/
+Laptop-Imaging-and-Build-Process/  Documentation/ Hardware-preparation.md/
 
 OS-imaging/
 
