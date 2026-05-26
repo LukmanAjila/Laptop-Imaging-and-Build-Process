@@ -1,6 +1,6 @@
 # Laptop Imaging and Build Process
 
-Reliable laptop builds through clear, consistent and repeatable IT processes.
+Reliable laptop build through clear, consistent and repeatable IT processes.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
